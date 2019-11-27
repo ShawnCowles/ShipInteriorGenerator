@@ -1,0 +1,17 @@
+Room Styles:
+* Specify rooms that are exaustively placed, instead of random tries.
+* Bridges
+* Reactors
+* Ensure ships have some features, like engines, bridges, and reactors
+
+Room Type to tile rendering, part of process to render whole ship as 1m tiles.
+
+Hull Styles:
+* Drake Cutlass
+* Drake Catipilar
+* Misc Starfarer
+* Bengal
+* Federation (sphere bridges)
+* Klingon
+* Star Destroyer
+* star wars milenium falcon (optional symmetry)
